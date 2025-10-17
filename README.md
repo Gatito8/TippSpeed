@@ -1,4 +1,4 @@
-# TippSpeed ⌨️  
+# TippSpeed ⌨️
 _A simple Java Swing app to test your typing speed and accuracy._
 
 ## 🧠 About the Project
@@ -16,14 +16,11 @@ The app was built in **Java 21** using **NetBeans** with an **MVC architecture**
 
 ---
 
-## 🚀 How to Run
-### 🧩 Option 1 — From NetBeans
-1. Open the project in **NetBeans**  
-2. Right-click → **Run Project**  
-3. The main window will open automatically.
+## ⬇️ Download & Run (Recommended)
+Get the latest **JAR** from the **Releases** page:  
+https://github.com/amirmohammad-eftekhari/TippSpeed/releases/latest
 
-### ☕ Option 2 — From Terminal
-If you already built the project:
+Run it from your terminal:
 ```bash
-cd dist
 java -jar TippSpeed.jar
+
