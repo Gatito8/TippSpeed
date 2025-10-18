@@ -18,7 +18,7 @@ The app was built in **Java 21** using **NetBeans** with an **MVC architecture**
 
 ## ⬇️ Download & Run (Recommended)
 Get the latest **JAR** from the **Releases** page:  
-https://github.com/amirmohammad-eftekhari/TippSpeed/releases/latest
+https://github.com/eftekhari-amirmohammad/TippSpeed/releases/latest
 
 Run it from your terminal:
 ```bash
